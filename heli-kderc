@@ -1,0 +1,23 @@
+# KDE Config File
+# Copy y Modify of Fantasma misterioso of Martin R. Jones
+[Config]
+PixmapPath=pics/animated/heli-kde
+Description=Helicoptero KDE
+Description[es]=KDE Helicoptero
+About=By Kenner Y. Roa B. (kyrb2000) http://mipagina.cantv.net/kyrb2000, KDE Helicoptero
+Icon=heli-kde_1.png
+Sequences=Base,EyesRight
+
+[Base]
+Sequence=heli-kde_1.png,heli-kde_2.png,heli-kde_1.png,heli-kde_2.png,heli-kde_1.png,heli-kde_2.png,heli-kde_1.png,heli-kde_2.png,heli-kde_1.png,heli-kde_2.png
+Movement=0,0,0,0,0,0,0,0,0,0
+Delay=300,300,300,300,300,300,300,300,300,300
+HotspotX=16,16,16,16,16,16,16,16,16,16
+HotspotY=50,50,50,50,50,50,50,50,50,50
+
+[EyesRight]
+Sequence=heli-kde_1.png,heli-kde_1.png,heli-kde_1.png,heli-kde_1.png,heli-kde_1.png,heli-kde_1.png,heli-kde_1.png,heli-kde_1.png,heli-kde_1.png,heli-kde_1.png,heli-kde_1.png
+Movement=0,0,0,0,12,12,12,12,0,0,0
+Delay=100,100,100,300,100,100,100,300,100,100,100
+HotspotX=16,16,16,16,16,16,16,16,16,16,16
+HotspotY=25,20,15,10,10,10,10,10,15,20,25

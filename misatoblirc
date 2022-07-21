@@ -1,0 +1,16 @@
+# KDE Config File
+[Config]
+PixmapPath=pics/animated/misatobli
+Description=Misato blinks
+About=Misato sits on top of the active\nwindow and blinks.
+Icon=../../preview/misato.xpm
+Sequences=Base
+Base=Base
+
+[Base]
+Sequence=misa2.xpm,misa-parp.xpm,misa-parp2.xpm,misa-parp.xpm
+Movement=0,0,0,0
+Delay=4000,50,50,50
+HotspotX=0,0,0,0
+HotspotY=90,90,90,90
+

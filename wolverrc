@@ -1,0 +1,34 @@
+# # KDE Config File
+# An AMOR version of Wolverine form Marvel Comics (picture form Capcom Game)
+# Pawel Bobrowicz
+
+[Config]
+PixmapPath=pics/animated/wolverin
+Description=Wolverine from Marvel
+Description[pl]=Wolverine z komiksow Marvela
+About=Amor theme created by Pawel Bobrowicz
+About[pl]=Styl do programu Amor stworzony przez Pawel Bobrowicz
+
+Icon=../../preview/wolverine.png
+Base=Base
+Sequences=Base,Idzie
+#,Hadouken,Shoryuken,Hurricane
+#Focus=Base
+#Blur=Base
+#Destroy=Hadouken
+#Sleep=Base
+#Wake=Hadouken
+
+[Base]
+Sequence=0.png,1.png,2.png,3.png,4.png,5.png,6.png,7.png,8.png,9.png,10.png,11.png
+Movement=0,0,0,0,0,0,0,0,0,0,0,0,0
+Delay=200,200,200,200,200,200,200,200,200,200,200,200
+HotspotX=90,90,90,90,90,90,90,90,90,90,90,90
+HotspotY=90,90,90,90,90,90,90,90,90,90,90,90
+
+[Idzie]
+Sequence=0a.png,1a.png,3a.png,4a.png,5a.png,6a.png,7a.png,8a.png,9a.png,10a.png,11a.png,12a.png,13a.png,14a.png,15a.png,16a.png,3a.png,4a.png,5a.png,6a.png,7a.png,8a.png,0.png,1.png,2.png,3.png,4.png,5.png,6.png,7.png,8.png,9.png,10.png,11.png,0b.png,1b.png,2b.png,3b.png,4b.png,5b.png,6b.png,7b.png,8b.png,9b.png,10b.png,11b.png,12b.png,13b.png,14b.png,15b.png,,3b.png,4b.png,5b.png,6b.png,7b.png,8b.png,9b.png
+Movement=0,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10,-10,-10,-10,-10,-10,-10,-10,-10,-10,-10,-10,-10,-10,-10,-10,-10,-10,-10,-10,-10,0
+Delay=200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200,200
+HotspotX=90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90
+HotspotY=90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90,90

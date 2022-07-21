@@ -1,0 +1,31 @@
+# KDE Config File
+[Config]
+PixmapPath=ed
+Description=Edwards Virus from Cowboy Bebop
+About=Made with Inksacpe/Gimp
+Icon=ed-v-mini.xpm
+Sequences=Base
+Base=Base
+Focus=Dump
+Blur=Smile
+
+[Base]
+Sequence=ed-v-3.xpm,ed-v-4.xpm,ed-v-5.xpm,ed-v-1.xpm,ed-v-2.xpm
+Movement=0,0,0,0,0
+Delay=5000,4000,3000,4000,2000
+HotspotX=0,0,-60,20,20
+HotspotY=120,120,140,100,100
+
+[Smile]
+Sequence=ed-v-7.xpm,ed-v-7.xpm
+Movement=0,0
+Delay=1000,200
+HotspotX=0,0
+HotspotY=120,120
+
+[Dump]
+Sequence=ed-v-6.xpm,ed-v-6.xpm
+Movement=0,0
+Delay=1000,200
+HotspotX=0,0
+HotspotY=100,100

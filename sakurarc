@@ -1,0 +1,17 @@
+# KDE Config File
+[Config]
+PixmapPath=pics/animated/sakura
+Description=Sakura
+Description[it]=Sakura
+About=From an old japanese screenmate.
+About[it]=Da un vecchio screenmate giapponese.
+Icon=../../preview/sakura.png
+Sequences=Base
+Base=Base
+
+[Base]
+Sequence=sakura1.png,sakura3.png,sakura5.png,sakura3.png
+Movement=0,0,0,0
+Delay=5000,50,60,50
+HotspotX=0,0,0,0
+HotspotY=110,110,110,110

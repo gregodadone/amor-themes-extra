@@ -1,0 +1,16 @@
+# KDE Config File
+[Config]
+PixmapPath=pics/animated/rei
+Description=Rei from Evangelion
+About=Rei sits on top of the active window and blinks.\nImages from Elemental Software's Evangelion Sitters.
+Icon=../../preview/rei.xpm
+Sequences=Base
+Base=Base
+
+[Base]
+Sequence=rei1.xpm,rei2.xpm,rei3.xpm
+Movement=0,0,0
+Delay=4000,50,50
+HotspotX=0,0,0
+HotspotY=90,90,90
+
