@@ -1,5 +1,13 @@
 # Amor themes not included in main repo
 
+## This repo is created for the package of the same name in Arch Linux User Repository
+> https://aur.archlinux.org/packages/amor-themes-extra
+
+## AMOR main repository
+> https://github.com/KDE/amor
+
+## Included themes
+
 #### Bacon
 > https://store.kde.org/p/1219618
 
