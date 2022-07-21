@@ -7,7 +7,4 @@ if [ $UID -ne 0 ]; then
 	exit
 fi
 
-cp -R * /usr/share/amor/
-rm /usr/share/amor/install.sh
-rm /usr/share/amor/README.md
-rm /usr/share/amor/LICENSE
+cp -R amor/* /usr/share/amor/
