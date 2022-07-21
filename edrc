@@ -1,9 +1,9 @@
 # KDE Config File
 [Config]
-PixmapPath=ed
+PixmapPath=pics/animated/ed
 Description=Edwards Virus from Cowboy Bebop
 About=Made with Inksacpe/Gimp
-Icon=ed-v-mini.xpm
+Icon=../../preview/ed-v-mini.xpm
 Sequences=Base
 Base=Base
 Focus=Dump

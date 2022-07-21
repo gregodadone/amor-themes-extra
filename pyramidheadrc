@@ -1,9 +1,10 @@
 # KDE Config File
 [Config]
-PixmapPath=pyramidhead
+PixmapPath=pics/static
+Static=true
 Description=Pyramid head from Konami's Silent hill 2
 About=The mascot has been taken by DEVIANT ART and edited a bit.
-Icon=pyramidhead.xpm
+Icon=../preview/pyramidhead.xpm
 Sequences=Base
 Base=Base
 

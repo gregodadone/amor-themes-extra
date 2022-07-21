@@ -3,10 +3,10 @@
 # Daniel Sonck (daniel@sonck.nl)
 
 [Config]
-PixmapPath=chen
+PixmapPath=pics/animated/chen
 Description=Chen
 About=Chen from Touhou Project, by Daniel Sonck
-Icon=chen.png
+Icon=../../preview/chen.png
 Base=Base
 Sequences=RightScratch,LeftScratch,RunRight,RunLeft,Yawn,RightLick,Jump
 Focus=Start
